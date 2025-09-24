@@ -1,0 +1,10 @@
+{
+    "compilerOptions": {
+        "target": "ES2022",
+        "outDir": "./dist/js/",
+        "noEmitOnError": true // só gera o arquivo se não houver erros    
+    },
+    "include":[
+        "./src/**/*"
+    ]
+}
